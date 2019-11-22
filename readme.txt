@@ -3,4 +3,5 @@ Git is free software.
 learngit.
 ceshi.
 Greate a new branch is quick.
-Greating a new branch is quick & simple.
+Greating a new branch is quick and simple.
+
